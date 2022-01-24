@@ -15,8 +15,7 @@ Here are some ideas to get you started: -->
 - 📝 I regularly write articles on [https://atakanalkan.com](https://atakanalkan.com)
 
 - 📫 How to reach me **atk.kan238@hotmail.com**
-
-
+<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
