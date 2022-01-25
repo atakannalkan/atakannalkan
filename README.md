@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 <br/>
 <img align="right" alt="Coding" width="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Web Development and Cyber Security**
+- 🔭 My interests **Web Development, Cyber Security and Mobile Application**
 
 - 🌱 I’m currently learning **Web Development**
 
