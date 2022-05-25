@@ -5,7 +5,7 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">Hi There 👋, I'm Atakan Alkan</h1>
 <br/>
-<img align="right" alt="Coding" width="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 My interests **Web Development, Cyber Security and Mobile Application**
 
