@@ -53,10 +53,16 @@ Here are some ideas to get you started: -->
  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="postman" width="35" height="35"/> </a>
  
 ## Uygulama Konu Başlıkları
-* [x] Html
-* [x] Css
-* [x] JavaScript
-* [x] Bootstrap 5
-* [x] Php
-* [x] Sql
-* [x] MySql
+# Popular Databases
+- [ ] Oracle
+- [ ] MySQL
+- [ ] Microsoft SQL Server
+- [ ] PostgreSQL
+- [ ] Redis
+- [ ] Elasticsearch
+- [ ] SQLite
+- [ ] MariaDB
+- [ ] Solr
+- [ ] Neo4j
+- [ ] HBase
+- [ ] Couchbase
