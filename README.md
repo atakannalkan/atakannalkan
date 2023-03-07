@@ -54,15 +54,8 @@ Here are some ideas to get you started: -->
  
 ## Uygulama Konu Başlıkları
 # Popular Databases
-- [x] Oracle
-- [ ] MySQL
-- [ ] Microsoft SQL Server
-- [ ] PostgreSQL
-- [ ] Redis
-- [ ] Elasticsearch
-- [ ] SQLite
-- [ ] MariaDB
-- [ ] Solr
-- [ ] Neo4j
-- [ ] HBase
-- [ ] Couchbase
+## Uygulama Konu Başlıkları
+
+* &#x2611; Item 1
+* &check; Item 2
+* &check; Item 3
