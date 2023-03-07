@@ -53,9 +53,9 @@ Here are some ideas to get you started: -->
  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="postman" width="35" height="35"/> </a>
  
 ## Uygulama Konu Başlıkları
-# Popular Databases
-## Uygulama Konu Başlıkları
 
 &#x2611; Item 1
+
 &#x2611; Item 2
+
 &#x2611; Item 3
