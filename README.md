@@ -56,6 +56,6 @@ Here are some ideas to get you started: -->
 # Popular Databases
 ## Uygulama Konu Başlıkları
 
-* &#x2611; Item 1
-* &check; Item 2
-* &check; Item 3
+&#x2611; Item 1
+&#x2611; Item 2
+&#x2611; Item 3
