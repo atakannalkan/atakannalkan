@@ -52,7 +52,3 @@ Here are some ideas to get you started: -->
  <a href="https://visualstudio.microsoft.com/tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png" alt="postman" width="30" height="30"/> </a>&nbsp;
  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="postman" width="35" height="35"/> </a>
  
-&#128994; Item 1 \
-&#128994; Item 2 \
-&#128994; Item 3 \
-&#128994; Item 4 \
