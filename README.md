@@ -54,7 +54,7 @@ Here are some ideas to get you started: -->
  
 ## Uygulama Konu Başlıkları
 # Popular Databases
-- [ ] Oracle
+- [x] Oracle
 - [ ] MySQL
 - [ ] Microsoft SQL Server
 - [ ] PostgreSQL
