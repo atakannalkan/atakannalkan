@@ -59,9 +59,9 @@ Here are some ideas to get you started: -->
 ## Uygulama Konu Başlıkları
 
 &#128994; Html \
-&#128995; Css \
+&#128994; Css \
 &#128994; JavaScript \
-&#128995; Bootstrap 5 \
+&#128994; Bootstrap 5 \
 &#128994; Php \
-&#128995; Sql \
+&#128994; Sql \
 &#128994; MySQL
