@@ -53,5 +53,15 @@ Here are some ideas to get you started: -->
  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png" alt="postman" width="35" height="35"/> </a>
  
 
-&#128994; Sql\
+
+
+
+## Uygulama Konu Başlıkları
+
+&#128994; Html \
+&#128995; Css \
+&#128994; JavaScript \
+&#128995; Bootstrap 5 \
+&#128994; Php \
+&#128995; Sql \
 &#128994; MySQL
